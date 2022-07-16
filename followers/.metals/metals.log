@@ -1,0 +1,516 @@
+2022.07.06 20:59:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\lsp.trace.json or C:\Users\moham\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.06 20:59:47 INFO  logging to file C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\metals.log
+2022.07.06 20:59:47 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers' for client Visual Studio Code 1.66.2.
+2022.07.06 20:59:48 INFO  time: initialize in 1s
+2022.07.06 20:59:48 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.06 20:59:48 WARN  Build server is not auto-connectable.
+2022.07.06 20:59:48 WARN  no build tool detected in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.06 20:59:51 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.06 20:59:55 INFO  no build target found for C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.06 20:59:58 INFO  time: code lens generation in 6.38s
+2022.07.06 20:59:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Event.scala
+2022.07.06 21:00:11 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\package.scala
+2022.07.06 21:00:23 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Identity.scala
+2022.07.06 21:00:36 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\ExtraStreamOps.scala
+2022.07.06 21:00:47 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.06 23:43:20 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.07 06:02:28 INFO  shutting down Metals
+2022.07.07 17:01:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\lsp.trace.json or C:\Users\moham\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.07 17:01:42 INFO  logging to file C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\metals.log
+2022.07.07 17:01:42 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers' for client Visual Studio Code 1.66.2.
+2022.07.07 17:01:43 INFO  time: initialize in 1.43s
+2022.07.07 17:01:43 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.07 17:01:45 WARN  Build server is not auto-connectable.
+2022.07.07 17:01:45 WARN  no build tool detected in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.07 17:01:47 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.07 17:01:52 INFO  no build target found for C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.07 17:01:55 INFO  time: code lens generation in 7.82s
+2022.07.07 17:13:10 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Event.scala
+2022.07.07 17:15:56 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.07 17:17:25 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Identity.scala
+Jul 07, 2022 5:31:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 747
+2022.07.07 17:31:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.07 17:37:12 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.07 17:39:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.07 17:39:13 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 07, 2022 8:25:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying cases.!=(null).&&(cases.nonEmpty)
+found that cases.nonEmpty is false
+where cases = List()
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying cases.!=(null).&&(cases.nonEmpty)
+found that cases.nonEmpty is false
+where cases = List()
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying cases.!=(null).&&(cases.nonEmpty)
+found that cases.nonEmpty is false
+where cases = List()
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Term$Match$.internal$85(Trees.scala:125)
+	at scala.meta.Term$Match$.apply(Trees.scala:125)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$matchClause$2(ScalametaParser.scala:1388)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:339)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:341)
+	at scala.meta.internal.parsers.ScalametaParser.matchClause(ScalametaParser.scala:1388)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExprRest(ScalametaParser.scala:2143)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExprRest(ScalametaParser.scala:2127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$5(ScalametaParser.scala:2072)
+	at scala.util.Success.map(Try.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2072)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:334)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:344)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2022)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2020)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2004)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1986)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1559)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1448)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$2(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4075)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:508)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2250)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2255)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2249)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2246)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1716)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1448)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$2(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4075)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:508)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2250)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2255)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2249)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2246)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1716)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1448)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$2(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4075)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:508)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2250)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2252)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2249)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2246)
+	at scala.meta.internal.parsers.ScalametaParser.argumentExprsWithUsing(ScalametaParser.scala:2209)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExprRest(ScalametaParser.scala:2164)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExprRest(ScalametaParser.scala:2127)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$5(ScalametaParser.scala:2072)
+	at scala.util.Success.map(Try.scala:262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2072)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:334)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:344)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2022)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2020)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2004)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:1986)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1559)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1448)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$2(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4075)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4223)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:508)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4205)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2250)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2255)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2249)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2246)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1356)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3261)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:339)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:341)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3247)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3211)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3196)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4151)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4145)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4137)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4136)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:508)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4136)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBodyOpt$1(ScalametaParser.scala:4001)
+	at scala.meta.internal.parsers.ScalametaParser.indentedOnOpen(ScalametaParser.scala:249)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4001)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:3904)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:3926)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:3913)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:3956)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:3945)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3679)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:339)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:341)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3671)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3548)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3529)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4116)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4104)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4097)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4296)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$12(ScalametaParser.scala:4309)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:339)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$11(ScalametaParser.scala:4309)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4309)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4266)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4259)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:296)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:337)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4259)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4264)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:128)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:121)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:311)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 07, 2022 8:27:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1753
+Jul 08, 2022 3:50:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2500
+Jul 08, 2022 4:04:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2600
+2022.07.08 16:05:59 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:06:02 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:07:34 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+Jul 08, 2022 4:07:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2776
+Jul 08, 2022 4:10:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2799
+2022.07.08 16:28:04 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 16:32:17 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:34:44 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 16:38:36 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:39:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:41:24 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 16:42:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 16:42:49 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 16:43:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 16:43:17 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.08 17:13:09 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:14:42 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:17:41 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:23:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:24:33 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:26:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:28:53 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:30:19 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:31:52 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.08 17:35:11 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 08, 2022 9:20:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:101)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:266)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:268)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:264)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+2022.07.08 21:38:27 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:42:16 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:42:33 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:42:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:43:49 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:44:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:50:00 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:51:11 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:52:16 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 00:53:51 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 09, 2022 1:15:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6217
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6219
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6220
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6224
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6228
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6230
+Jul 09, 2022 1:15:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6232
+2022.07.09 01:15:37 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:18:33 INFO  time: code lens generation in 4.04s
+Jul 09, 2022 1:19:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6261
+Jul 09, 2022 1:19:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6264
+2022.07.09 01:23:16 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:26:05 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:26:22 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:27:22 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:27:59 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:29:07 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:33:22 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:38:50 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:44:41 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 01:44:48 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.09 01:46:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:02:54 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:03:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:03:05 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 09, 2022 12:03:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7133
+2022.07.09 12:03:36 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:04:02 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:05:14 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 09, 2022 12:11:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7335
+2022.07.09 12:12:49 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 12:13:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 09, 2022 12:15:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7449
+Jul 09, 2022 12:21:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7478
+2022.07.09 12:25:12 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.09 13:01:09 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 13:01:11 INFO  shutting down Metals
+2022.07.09 20:32:32 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\lsp.trace.json or C:\Users\moham\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.09 20:32:33 INFO  logging to file C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\metals.log
+2022.07.09 20:32:33 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers' for client Visual Studio Code 1.66.2.
+2022.07.09 20:32:35 INFO  time: initialize in 1.92s
+2022.07.09 20:32:36 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.09 20:32:38 WARN  Build server is not auto-connectable.
+2022.07.09 20:32:38 WARN  no build tool detected in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.09 20:32:42 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.09 20:32:50 INFO  no build target found for C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.09 20:33:21 INFO  time: code lens generation in 36s
+2022.07.09 20:33:21 INFO  time: code lens generation in 36s
+2022.07.10 01:29:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.10 01:29:19 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 12:58:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.10 13:12:06 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\project\StudentTasks.scala
+Jul 10, 2022 1:12:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
+2022.07.10 13:28:06 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.10 13:29:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.10 13:29:25 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Event.scala
+2022.07.10 13:29:36 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\build.sbt
+2022.07.10 13:33:19 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:34:07 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:36:35 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:38:18 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 13:39:41 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:39:49 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:40:31 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:40:53 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:44:50 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:44:56 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:44:56 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:45:55 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:46:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:46:20 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:46:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:46:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 13:47:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 13:47:06 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:47:19 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 13:47:24 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 13:47:41 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:48:18 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:49:09 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:49:18 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:49:37 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:49:40 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:55:59 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:57:50 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:58:14 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:58:26 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:58:46 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 13:58:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 13:59:44 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 14:00:00 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 14:00:47 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 14:01:18 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 14:02:02 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.10 14:02:33 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.10 14:02:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 14:02:40 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.10 15:19:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\package.scala
+Jul 10, 2022 3:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2220
+Jul 10, 2022 6:42:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2561
+2022.07.11 20:22:48 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 11, 2022 8:25:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2898
+2022.07.11 20:26:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:27:12 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:30:02 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:31:05 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:31:31 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:31:46 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:32:10 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:32:40 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:34:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:35:32 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:35:44 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:36:11 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:37:12 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 20:54:55 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Identity.scala
+2022.07.11 21:05:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:14:17 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:14:52 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Event.scala
+2022.07.11 21:15:01 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:15:22 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:15:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:20:30 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:21:11 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:24:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:25:33 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:26:29 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:28:29 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:30:54 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:33:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.11 21:38:28 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 22:29:00 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 22:36:17 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:36:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 22:37:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:47:35 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:48:00 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:48:40 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:48:54 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:56:02 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+Jul 12, 2022 10:56:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6760
+2022.07.12 22:56:30 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 22:56:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 22:57:14 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 22:57:59 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.12 23:03:00 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 23:03:30 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.12 23:03:55 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\ExtraStreamOps.scala
+2022.07.12 23:04:24 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 00:49:25 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 00:53:56 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 00:54:05 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 00:54:49 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 00:54:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 01:02:54 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 13, 2022 1:06:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8238
+2022.07.13 01:06:50 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 01:07:30 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 01:07:38 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 01:10:53 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 01:10:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 01:12:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 01:13:46 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 01:14:23 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 01:15:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+Jul 13, 2022 1:15:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8434
+2022.07.13 01:16:40 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 13, 2022 1:16:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8544
+Jul 13, 2022 1:16:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8552
+Jul 13, 2022 1:16:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8562
+2022.07.13 01:17:55 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 13, 2022 6:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8622
+2022.07.13 18:44:48 INFO  shutting down Metals
+2022.07.13 18:46:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\lsp.trace.json or C:\Users\moham\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.13 18:46:54 INFO  logging to file C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\.metals\metals.log
+2022.07.13 18:46:54 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers' for client Visual Studio Code 1.66.2.
+2022.07.13 18:46:55 INFO  time: initialize in 1s
+2022.07.13 18:46:55 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.13 18:46:55 WARN  Build server is not auto-connectable.
+2022.07.13 18:46:55 WARN  no build tool detected in workspace 'C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.13 18:46:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala
+2022.07.13 18:46:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+Jul 13, 2022 6:46:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 13, 2022 6:46:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.07.13 18:47:13 INFO  no build target found for C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Interfaces.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.13 18:47:18 INFO  time: code lens generation in 19s
+2022.07.13 18:47:18 INFO  time: code lens generation in 18s
+2022.07.13 18:54:46 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Identity.scala
+2022.07.13 19:13:59 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+Jul 13, 2022 7:13:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+2022.07.13 20:38:03 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\model\Event.scala
+2022.07.13 20:45:33 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 20:55:50 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 21:02:52 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 21:03:37 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 21:03:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\main\scala\followers\Server.scala
+2022.07.13 21:04:28 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:06:05 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:06:52 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:08:18 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:09:14 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:10:08 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:10:24 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:10:30 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:10:51 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:10:58 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.13 21:13:57 WARN  no build target for: C:\Users\moham\Desktop\objcppcs\Scala_EPFDL\ScalaReactiveProgramming\followers\followers\src\test\scala\followers\FollowersSuite.scala
+2022.07.14 17:45:10 INFO  shutting down Metals
